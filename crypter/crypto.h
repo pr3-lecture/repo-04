@@ -1,6 +1,9 @@
 #ifndef __CRYPTO_H__
 #define __CRYPTO_H__
 
+#define ENCRYPT 0
+#define DECRYPT 1
+
 /** Length of key not sufficient. */
 #define E_KEY_TOO_SHORT 1
 

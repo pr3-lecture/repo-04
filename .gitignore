@@ -1,2 +1,6 @@
 **/bin/
 eclipse-workspace/
+
+crypter/cmake-build-debug/
+
+crypter/\.idea/
