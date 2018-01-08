@@ -118,3 +118,6 @@ Error: Key contains illegal characters
 ```
 
 Fehlermeldungen geben Sie bitte grundsätzlich auf `stderr` aus.
+
+## Abgabe
+Die Datei `test-alphabet` enthält das komplette Alphabet und die Datei `test-alphabet-schluessel-yeah` enthält das Alphaet mit YEAH verschlüsselt.
