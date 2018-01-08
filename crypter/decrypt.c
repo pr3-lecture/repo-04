@@ -30,6 +30,10 @@ int main(int argc, char** argv) {
 
         //TODO in while loop to get greater files
         message = readLineFromFile(file);
+        if(message == NULL) {
+            errorExit("Error: Could not read file");
+        }
+
         removeNewLine(message);
         printf("Message from file: %s\n", message);
 
